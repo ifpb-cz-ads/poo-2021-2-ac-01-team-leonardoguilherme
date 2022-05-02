@@ -1,1 +1,1 @@
-
+1) A Máquina Virtual Java (JVM) executa e carrega os aplicativos Java, ou seja, converte os bytecodes em código de máquina, com essa função de interpretador, a JVM faz com que o Java funcione em qualquer plataforma de Hardware ou Software.
