@@ -10,3 +10,5 @@ class Primeira {
     System.out.print("Terminei a primeira aula com um programa Java!");
  }
 }
+
+4) O compilador teve erro ao executar o programa, não achando a classe principal.
