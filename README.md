@@ -4,24 +4,13 @@
 
 2) O Java Runtime Environment (JRE) ou Ambiente de Execução Java contém tudo aquilo que um usuário comum precisa para executar uma aplicação Java, como a Máquina Vitrual Java (JVM) e bibliotecas da linguagem. Já o Java Development Kit (JDK) é o ambiente de desenvolvimento em Java, sendo composto pelo JRE e um conjunto de ferramentas úteis ao desenvolvedor Java, como o compilador da linguagem Java (javac), o debugador java (jdb), o interpretador java (java), o gerador de documentação (javadoc), etc.
 
-3)
-class Primeira {
-   public static void main(String [] args){
-    System.out.print("Terminei a primeira aula com um programa Java!");
- }
-}
+3) A resposta encontra-se no programa Primeira.java.
 
 4) O compilador teve erro ao executar o programa, não achando a classe principal.
 
 5) O compilador não conseguiu encontrar o método principal e retornou um erro.
 
-6)
-class Time {
-   public static void main(String [] args){
-    System.out.println("Leonardo");
-    System.out.println("Flamengo");
- }
-}
+6) A resposta encontra-se no programa Time.java.
 
 7) O compilador demonstrou erro nas sitaxes definidas pelo programa e acabou por não reconhecer sua estrutura.
 
