@@ -12,3 +12,5 @@ class Primeira {
 }
 
 4) O compilador teve erro ao executar o programa, não achando a classe principal.
+
+5) O compilador não conseguiu encontrar o método principal e retornou um erro.
