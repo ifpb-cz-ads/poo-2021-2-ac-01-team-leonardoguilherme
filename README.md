@@ -14,3 +14,11 @@ class Primeira {
 4) O compilador teve erro ao executar o programa, não achando a classe principal.
 
 5) O compilador não conseguiu encontrar o método principal e retornou um erro.
+
+6)
+class Time {
+   public static void main(String [] args){
+    System.out.println("Leonardo");
+    System.out.println("Flamengo");
+ }
+}
