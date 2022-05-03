@@ -22,3 +22,5 @@ class Time {
     System.out.println("Flamengo");
  }
 }
+
+7) O compilador demonstrou erro nas sitaxes definidas pelo programa e acabou por não reconhecer sua estrutura.
