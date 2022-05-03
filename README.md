@@ -23,6 +23,6 @@ class Time {
  }
 }
 
-7) O compilador demonstrou erro nas sitaxes definidas pelo programa e acabou por não reconhecer sua estrutura.
+7) O compilador demonstrou erro nas sintaxes definidas pelo programa e acabou por não reconhecer sua estrutura.
 
 8) Não foi possível encontrar ou carregar a classe principal.
